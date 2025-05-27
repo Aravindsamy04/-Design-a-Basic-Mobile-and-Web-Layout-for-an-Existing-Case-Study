@@ -1,4 +1,4 @@
-# -02 Design-a-Basic-Mobile-and-Web-Layout-for-an-Existing-Case-Study# UNIT 2 – Design a Basic Mobile and Web Layout for an Existing Case Study
+# UNIT 2 – Design a Basic Mobile and Web Layout for an Existing Case Study
 
 ## AIM
 To design mobile and web layouts for an existing case study by applying Gestalt principles, UI elements, interaction behaviors, usability guidelines, and branding through logo creation.
